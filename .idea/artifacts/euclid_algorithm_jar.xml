@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="euclid-algorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/euclid_algorithm_jar</output-path>
+    <root id="root">
+      <element id="archive" name="euclid-algorithm.jar">
+        <element id="module-output" name="euclid-algorithm" />
+      </element>
+    </root>
+  </artifact>
+</component>
